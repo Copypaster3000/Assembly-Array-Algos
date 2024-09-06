@@ -4,7 +4,7 @@
 Each algorithm is contained in its own separate assembly file. To test an individual algorithm, compile only one example file with 'main.c'.
 
 ## Compiling Example
-gcc -o prog main.c example1.s
+gcc -o prog main.c example1.s  
 ./prog
 
 ## Overview
