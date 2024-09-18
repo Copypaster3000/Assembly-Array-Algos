@@ -1,11 +1,13 @@
-## Assembly Array Manipulation
+# Assembly Array Manipulation
 
 ## Usage
 Each algorithm is contained in its own separate assembly file. To test an individual algorithm, compile only one example file with 'main.c'.
 
 ## Compile and Run Example
+```bash
 gcc -o prog main.c example1.s  
 ./prog
+```
 
 ## Overview
 The repository contains the following algorithms
